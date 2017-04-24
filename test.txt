@@ -1,0 +1,24 @@
+{"version_code":451191,"content":"
+<p>ÊÍÏíË 9.20</p>
+
+<li>ÇáÊÍÏíË áäÓÎÉ ÇáãÇÑßÊ 2.17.107</li>
+<li> ÇãÇäíå ÇÑÓÇá ÌãíÚ ÇáãáİÇÊ</li>
+<li>(ÍÕÑíÇ) ÅãßÇäíÉ ÅÎİÇÁ Çí ãÍÇÏËÉ(ÅÖÛØ ãØæáÇğ Úáì Çí ãÍÇÏËÉ Ëã ÇÎÊÑ ÅÎİÇÁ)</li>
+<li>ÅãßÇäíÉ ÍİÙ ÍÇáÇÊ(ÇáÓÊæÑí) ÇáÇÕÏŞÇÁ İí ÇáÇÓÊÏíæ</li>
+<li>(ÍÕÑíÇ) ÚÏÇÏ ÇáÑÓÇÆá íÚãá ÇáÇä Úáì ÇíŞæäÉ ÇáÈÑäÇãÌ!!</li>
+<li>(ÍÕÑíÇ) ÅÚÇÏÉ ÇáÎíÇÑ ÑŞã 6.8 áæÖÚ ŞÇÆãÉ ÇáÇÓãÇÁ ÈÏáÇ ãä ŞÇÆãÉ ÇáÍÇáÉ ÇáÌÏíÏÉ</li>
+<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 2.2.34 áÊÛííÑ áæä ÔÑíØ ÇáÍÇáÇÊ ÇáÍÏíËÉ</li>
+<li>ÅÖÇİÉ ÇáÎíÇÑ ÑŞã 2.2.35 áÊÛííÑ áæä äÕ ÇáÍÇáÇÊ ÇáÍÇáÇÊ ÇáÍÏíËÉ</li>
+<li>ÅÕáÇÍÇÊ ÇÎÑì</li>
+
+<li> New Base Updated to 2.17.107</li>
+<li> send all file type</li>
+<li> (Exclusive) Ability To Hide Chats (Select any chat and Click on 3 Dots at right Corner and click Hide Chat)</li>
+<li> (Exclusive) Added Back Mod 6.8 Old ui but in different Style</li>
+<li> Added Option to Save Status/Story (Open any Status and Click on 3 Dots at right Corner and click download) </li>
+<li> (Exclusive) Fixed Msg Count on Icon</li>
+<li> Option to Theme Recent Status Bar & Text (Mod 2.2.34 & 2.2.35) </li>
+<li> Fixed Toast Background and Text Color for Nougat</li>
+
+","url":"http://www.3ssem.com/2016/10/agwhatsapp.html"
+}
