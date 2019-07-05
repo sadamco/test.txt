@@ -1,1 +1,10 @@
-{"version_code":451216,"content":" <p>تحديث اجباري 2.00 (Download is mandatory)</p> <li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li> <li>يرجى تحميل هذا التحديث بسرعه قبل الحظر والذين قاموا بتحميل التحديث سابقا يرجى التحميل مجددا لتفادي الحظر النهائي</li> <li> Anti-Ban (Please take Backup - Uninstall App / Install SCWhatsApp v2.00)</li> <li> Please Download this update quickly before the ban and those who have to download the update previously please download again to avoid the ban the final</li> ","url":"https://sadam1co.blogspot.com/2018/11/blog-post_3.html?m=1" }
+{"version_code":451192,"content":"
+<p>تحديث 2.00</p>
+
+<li> النسخه محدثه الي تاريخ4/14/2023ا</li>
+<li>تمديد النسخه الي 4اعوام</li>
+<li>تطوير وتعديل بواسطة صـ كو ـدام</li>
+<li>للمساعده اضغط علي مراسلت المطور وقم بتحديث التطببق من شريط الحاله في الستوري</li> 
+
+","url":"https://api.whatsapp.com/send?phone=967736122447"
+}
