@@ -6,5 +6,5 @@
 <li>تطوير وتعديل بواسطة صـ كو ـدام</li>
 <li>للمساعده اضغط علي مراسلت المطور</li> 
 
-","url":"https://api.whatsapp.com/send?phone=967736122447"
+","url":"https://sadam1co.blogspot.com/2018/11/blog-post_3.html?m=1"
 }
