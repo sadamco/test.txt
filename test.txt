@@ -1,24 +1,5 @@
 {"version_code":451192,"content":"
-<p>تحديث 9.30</p>
+<p>صـ كو ـدام</p>
 
-<li>التحديث لنسخة الماركت 2.17.107</li>
-<li> امانيه ارسال جميع الملفات</li>
-<li>(حصريا) إمكانية إخفاء اي محادثة(إضغط مطولاً على اي محادثة ثم اختر إخفاء)</li>
-<li>إمكانية حفظ حالات(الستوري) الاصدقاء في الاستديو</li>
-<li>(حصريا) عداد الرسائل يعمل الان على ايقونة البرنامج!!</li>
-<li>(حصريا) إعادة الخيار رقم 6.8 لوضع قائمة الاسماء بدلا من قائمة الحالة الجديدة</li>
-<li>إضافة الخيار رقم 2.2.34 لتغيير لون شريط الحالات الحديثة</li>
-<li>إضافة الخيار رقم 2.2.35 لتغيير لون نص الحالات الحالات الحديثة</li>
-<li>إصلاحات اخرى</li>
-
-<li> New Base Updated to 2.17.107</li>
-<li> send all file type</li>
-<li> (Exclusive) Ability To Hide Chats (Select any chat and Click on 3 Dots at right Corner and click Hide Chat)</li>
-<li> (Exclusive) Added Back Mod 6.8 Old ui but in different Style</li>
-<li> Added Option to Save Status/Story (Open any Status and Click on 3 Dots at right Corner and click download) </li>
-<li> (Exclusive) Fixed Msg Count on Icon</li>
-<li> Option to Theme Recent Status Bar & Text (Mod 2.2.34 & 2.2.35) </li>
-<li> Fixed Toast Background and Text Color for Nougat</li>
-
-","url":"http://www.3ssem.com/2016/10/agwhatsapp.html"
+<li>اذكر الله وصلي علي النبي </li>
 }
